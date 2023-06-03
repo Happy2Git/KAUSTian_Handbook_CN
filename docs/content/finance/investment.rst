@@ -127,7 +127,16 @@ A股0.01%至万0.025%佣金（双边收费），沪市收取每股0.06%的过户
 
 投资沙特
 --------------
+银行理财
+^^^^^^^^^
+SNB和SAB都可以购买相应银行发行的个人理财产品，都是整存整取，年化收益率还可以。
+SNB的产品介绍：https://www.alahli.com/en-us/personal-banking/islamic-Finance/Pages/Disclosure-of-APR-on-Financing.aspx
+SAB的产品介绍：https://www.sab.com/en/financing/personal-finance/
+
+企业投资
+^^^^^^^^^
 中国商务部沙特投资指南：`中国官方投资指南pdf <http://www.mofcom.gov.cn/dl/gbdqzn/upload/shatealabo.pdf>`_. 
+
 
 
 沙特没有银行利息，也买不了货币基金，每次攒钱转账都没有任何收益。如果有人知道怎么搞的欢迎更新或者评论。
